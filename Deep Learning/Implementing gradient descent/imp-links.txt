@@ -1,0 +1,5 @@
+https://distill.pub/2017/momentum/
+
+https://www.youtube.com/watch?v=59Hbtz7XgjM
+
+https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.vt3ax2kg9

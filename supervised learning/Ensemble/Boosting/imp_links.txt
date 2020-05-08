@@ -1,0 +1,5 @@
+https://www.gormanalysis.com/blog/gradient-boosting-explained/
+
+https://www.quora.com/What-is-an-intuitive-explanation-of-Gradient-Boosting
+
+https://cseweb.ucsd.edu/~yfreund/papers/IntroToBoosting.pdf
