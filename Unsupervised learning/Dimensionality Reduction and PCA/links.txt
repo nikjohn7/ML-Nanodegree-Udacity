@@ -1,0 +1,15 @@
+https://www.analyticsvidhya.com/blog/2016/12/introduction-to-feature-selection-methods-with-an-example-or-how-to-select-the-right-variables/
+https://elitedatascience.com/dimensionality-reduction-algorithms
+http://www.ai.mit.edu/projects/jmlr/papers/volume3/guyon03a/source/old/guyon03a.pdf
+
+PCA LINKS:
+https://www.youtube.com/watch?v=HH8pouRwphA
+https://www.youtube.com/watch?v=PFDu9oVAE-g
+http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf
+https://sebastianraschka.com/Articles/2015_pca_in_3_steps.html
+http://scikit-learn.org/stable/auto_examples/applications/plot_face_recognition.html#sphx-glr-auto-examples-applications-plot-face-recognition-py
+
+Where is PCA Used?
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2669932/
+https://arxiv.org/pdf/1801.01571.pdf
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.853.2380&rep=rep1&type=pdf

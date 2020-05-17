@@ -1,0 +1,12 @@
+Random projection:
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.76.8124&rep=rep1&type=pdf
+https://papers.nips.cc/paper/3901-random-projections-for-k-means-clustering.pdf
+
+ICA:
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.322.679&rep=rep1&type=pdf
+
+Applications of ICA:
+- http://papers.nips.cc/paper/1091-independent-component-analysis-of-electroencephalographic-data.pdf
+This paper is an example of how ICA is used to transform EEG scan data to do blind source separation. For example, on the left are the readings of 14 channels from an EEG scan that lasted 4.5 seconds
+
+- https://pdfs.semanticscholar.org/a34b/e08a20eba7523600203a32abb026a8dd85a3.pdf
